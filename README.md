@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azizulnelson
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning tableu, R Programming, SQL and Alteryx
-- 💞️ I’m looking to collaborate on any employer for big data, data analytics. 
+- 👀 I’m interested in AI and AI DevOps
+- 🌱 I’m currently learning AI prompt, AI DevOps and 
+- 💞️ I’m looking to collaborate on any employer for AI and AI DevOps. 
 - 📫 you may contact me at azizulariff.nelson@gmail.com or awfdatatechnology@gmail.com
 
 <!---
